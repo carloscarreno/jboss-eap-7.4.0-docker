@@ -11,7 +11,7 @@ You have access, according with the run command:
 
 The credentials for console access are:
 - User: admin
-- Password: welcome1!
+- Password: JBoss#1!
 
 Of course if you change the ports mapped you'll need to change the previous URLs on appropriate way.
 
